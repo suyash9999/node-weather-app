@@ -1,6 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
-
 const formData=document.querySelector('form')
 const message = document.querySelector('input')
 const displaydata = document.querySelector('#message-1')
